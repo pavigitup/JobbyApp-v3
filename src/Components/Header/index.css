@@ -1,0 +1,19 @@
+.header-con {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  width: 100%;
+  background-color: #272727;
+  padding: 3%;
+  margin: 0px;
+}
+.header-jobby-logo {
+  height: 25px;
+}
+.logo {
+  color: #ffffff;
+  margin-right: 20px;
+  font-size: 22px;
+}

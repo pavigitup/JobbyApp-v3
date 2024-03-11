@@ -1,0 +1,27 @@
+.jobs-con {
+  padding-top: 80px;
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.search-con {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #868383;
+  border-radius: 4px;
+  width: 100%;
+}
+.search-btn {
+  width: 60px;
+  background-color: #868383;
+  border-radius: 0px;
+}
+label {
+  color: transparent;
+}
+.input-box {
+  outline: none;
+  border: none;
+  color: #ffffff;
+}
